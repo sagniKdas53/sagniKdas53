@@ -1,6 +1,6 @@
-- I’m @sagniKdas53
-- I’m interested in making web apps and image processing
-- I’m currently learning javascript, R and python
+- Hi! I’m @sagniKdas53
+- I’m interested in making web apps and image processing and Machine Learning
+- I’m currently learning javascript, C/C++ ,Java and python
 - Reach me at purevert#7779 on discord.
 
 <!---
